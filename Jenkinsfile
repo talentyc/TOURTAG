@@ -1,6 +1,6 @@
 node() {
 
-    def repoURL = 'https://github.com/talentyc/TOURTAG.git'
+    def repoURL = 'https://github.com/talentyc/cucumber.git'
 
     stage("Prepare Workspace") {
         cleanWs()
